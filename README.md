@@ -50,7 +50,3 @@ Perfect for:
 * Resume / GitHub portfolio
 * Understanding regression fundamentals
 
-
-
-If you want, I can make it **even more stylish** with:
-🎨 badges, 📷 images, 🧠 demo GIFs, or 🌐 live notebook preview.
